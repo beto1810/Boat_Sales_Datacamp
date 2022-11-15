@@ -55,8 +55,30 @@
 
 -> GRP is lighter and stronger and It’s easier for boat owners to repair boats. 
 
+--- 
+# 5. Condition and Engine 
+
+![image](https://user-images.githubusercontent.com/101379141/201922146-bd719c40-70c9-4551-a240-25f95eab99a2.png)
+
+- Condition :
+  - Used boat accounts for majority of total listed on website.
+  - New condition boat also receive attention of consumer as you can see here, there no much significant different of avarage view between 3 type of boat’s condition
+
+-> Used boat got a little bit more attractive by it got advantage of price than new boat
+
+- Engine : Boat use diesel and Unleaded engine are most popurlar type
+
+--- 
+# 6. Location 
+
+- The top locations are Switzerland, Germany, and Italy
+- People of these countries likely to choose boat under 150k$.
+
+-> There are many lakes inside these countries, people love sailing their boats and enjoy the scenes. 
+
+
 ---
-# 5. Final Comments
+# 7. Final Comments
 
 - It can be seen that Udemy in 7 years (2011-2017) has had a fairly stable development.
   - Expanded many different courses with a variety of fields.
