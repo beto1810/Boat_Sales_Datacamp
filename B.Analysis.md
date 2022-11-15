@@ -6,12 +6,12 @@
 # :books: Table of Contents <!-- omit in toc -->
 
 - [1. Overall](#1-overall)
-- [2. Boat Type](#2-courses)
-- [3. Boat Price](#3-paid-or-free)
-- [4. Material](#3-paid-or-free)
-- [5. Condition and Engine](#4-subject-and-level)
-- [6. Location](#5-final-comments)
-- [7. Conclusion & Recommendation](#6-final-comments)
+- [2. Boat Type](#2-boat-type)
+- [3. Boat Price](#3-boat-price)
+- [4. Material](#4-material)
+- [5. Condition and Engine](#5-condition-and-engine)
+- [6. Location](#6-location)
+- [7. Conclusion & Recommendation](#7-conclusion--recommendation)
 
 ---
 
@@ -71,23 +71,28 @@
 --- 
 # 6. Location 
 
+![image](https://user-images.githubusercontent.com/101379141/201923866-161b33c5-0bb9-49dc-8f5f-307ce218c179.png)
+
 - The top locations are Switzerland, Germany, and Italy
 - People of these countries likely to choose boat under 150k$.
 
 -> There are many lakes inside these countries, people love sailing their boats and enjoy the scenes. 
 
-
 ---
-# 7. Final Comments
+# 7. Conclusion & Recommendation
 
-- It can be seen that Udemy in 7 years (2011-2017) has had a fairly stable development.
-  - Expanded many different courses with a variety of fields.
-  - More paid courses have been opened. Increase both quality and quantity.
-  - Students are willing to pay more for classes on Udemy
-  - Web Development courses and All Level courses are always the most popular and profitable courses for Udemy.
+- In Last 7 days, Nearly New Nautical Website has experienced some significant numbers as:
+  - Nearly New Nautical Website had 1.4 millions of views and about 10,000 boats posted.
+  - Top 3 Boat Type by views are Motor Yacht, Sport Boat, Cabin Boat.
+  - High price boat does not attract viewers instead of Low price boat.
+  - GRP is the most popular material of boat.
+  - Diesel and Unleaded Engine boat account for more than 98% of total boat.
+  - Europe countries, especially Switzerland got the highest amount of boat listed on website.
 
-- However, the first two quarters of 2017 saw a significant setback compared to the same period last year. The reason may lie in the quality of the courses that did not meet the needs of the students, the courses were copied and sold on other platforms. Or it can also be due to the strong development of other platforms Eg: Coursera.
 
-- 🚩 So, I believe that Udemy should:
-  - Focus more on quality courses in other subjects to expand the student population. Change and update learning difficulties with better quality, update knowledge.
-  - Continue to strengthen the foundation of Web Development courses. Especially about the development trend of science and technology, Udemy should open more courses on Computer Technology and Data.
+
+- 🚩 So, I believe that Nearly New Nautical Website should:
+  - Design Special Newsletter base on top countries like Switzerland, Germany, Italy or they can consider have special sections relating to top countries as their landscape, lake, river, beach etc.
+  - Recommend some top manufacturer and have interview with management teams of these manufacturers.
+  - With sales section, newsletter should give some useful insight to boat owners relating type of boat, price, material.
+  - Thinking about broadening market to North America.
