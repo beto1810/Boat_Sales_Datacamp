@@ -1,8 +1,6 @@
-# Udemy Course Analyze
+# 🚢 Boat Sales - Datacamp 
 
-       <img src="https://user-images.githubusercontent.com/101379141/201035143-6f1af4fe-4169-4074-8287-6790d88803db.png" alt="Image" width="350" height="160">
-
-
+![image](https://user-images.githubusercontent.com/101379141/201851795-145d07f8-217e-4ecd-938b-15305c30aea6.png)
 
 
 # :books: Table of Contents <!-- omit in toc -->
@@ -10,6 +8,7 @@
 - [:briefcase: Business Case](#briefcase-business-case)
 - [:bookmark_tabs:Example Datasets](#bookmark_tabsexample-datasets)
 - [:triangular_flag_on_post: The Requirement](#triangular_flag_on_post-the-final-test-requirements)
+- [:triangular_flag_on_post: Task List - Oral Presentation](#triangular_flag_on_post-task-list---oral-presentation)
 - [A. Data Exploration and Cleansing](#a-data-exploration-and-cleansing)
 - [B. Analysis](#b-analysis)
 
@@ -19,29 +18,38 @@
 
 # :briefcase: Business Case
 
-- This is the Final Test Exam of 'Data for Everyone' course of MINDX TECHNOLOGY SCHOOL.
+Nearly New Nautical is a website that allows users to advertise their used boats for sale. The marketing team is preparing a weekly newsletter for boat owners. 
 
-- The requirement of Text is cleaning, analyzing, doing visualization with the raw file data (udemy.csv).
-  - I would use the SQL to clear and filter the clean data for analyzing test.
-  - Power BI would be the visualization tool for me to visualize and analyze the clean data.
-  - Finally, I would give the comments about these data through graphs of Power BI.
+The newsletter is designed to help sellers to get more views of their boat, as well as stay on top of market trends. 
+
+The Head of Marketing has laid out an ambitious goal of increasing the number of readers by 75% this year.
 
 ---
 
 # :bookmark_tabs:Example Datasets
 
+You can download the data from [here](https://s3.amazonaws.com/talent-assets.datacamp.com/boat_data.csv). You can use any tools that you wish to analyze the data and create your presentation. 
+
+The dataset has the following columns:
+
+![image](https://user-images.githubusercontent.com/101379141/201855572-4240a633-adcf-4e5c-9010-de4d840796e1.png)
+
 <div align="center">
 
-**Table : udemy_course**
+**Table : boat_data**
 
-|course_id|course_title|url|is_paid|price|num_subscribers|num_reviews|num_lectures|level|content_duration|published_timestamp|subject|
-|:----|:-----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|
-1070968|Ultimate Investment Banking Course.|https://www.udemy.com/ultimate-investment-banking-course/|TRUE|200|2147|23|51|All Levels|1.5|1/19/2017 3:58|Business Finance|
-1113822|Complete GST Course & Certification - Grow Your CA Practice|https://www.udemy.com/goods-and-services-tax/|TRUE|75|2792|923|274|All Levels|39|3/9/2017 23:34|Business Finance|
-1006314|Financial Modeling for Business Analysts and Consultants|https://www.udemy.com/financial-modeling-for-business-analysts-and-consultants/|TRUE|45|2174|74|51|Intermediate Level|2.5|12/20/2016 2:26|Business Finance|
-1210588|Beginner to Pro - Financial Analysis in Excel 2017|https://www.udemy.com/complete-excel-finance-course-from-beginner-to-pro/|TRUE|95|2451|11|36|All Levels|3|5/31/2017 3:07|Business Finance|
-1011058|How To Maximize Your Profits Trading Options|https://www.udemy.com/how-to-maximize-your-profits-trading-options/|TRUE|200|1276|45|26|Intermediate Level|2|12/13/2016 21:57|Business Finance|
-192870|Trading Penny Stocks: A Guide for All Levels In 2017|https://www.udemy.com/trading-penny-stocks-a-guide-for-all-levels/|TRUE|150|9221|138|25|All Levels|3|5/2/2014 22:13|Business Finance|
+|Price|Boat Type|Manufacturer|Type|Year Built|Length|Width|Material|Location|Number of views last 7 days|
+|:----|:-----|:----|:----|:----|:----|:----|:----|:----|:----|
+CHF 3337|Motor Yacht|Rigiflex power boats|new boat from stock|2017|4|1.9|		|Switzerland|226|
+EUR 3490|Center console boat|Terhi power boats|new boat from stock|2020|4|1.5|Thermoplastic|Germany|75|
+CHF 3770|Sport Boat|Marine power boats|new boat from stock|0|3.69|1.42|Aluminium|Switzerland|124|
+DKK 25900|Sport Boat|Pioner power boats|new boat from stock|2020|3|1|		|Denmark|	64|
+EUR 3399|Fishing Boat|Linder power boats|new boat from stock|2019|3.55|1.46|Aluminium|Germany|58|
+CHF 3650|Sport Boat|Linder power boats|new boat from stock|0|4.03|1.56|Aluminium|Switzerland|132|
+CHF 3600|Catamaran|		|Used boat,Unleaded|1999|6.2|2.38|Aluminium|Switzerland|474|
+DKK 24800|Sport Boat|		|Used boat|0|3| |		|Denmark|134|
+EUR 3333|Fishing Boat|Crescent power boats|new boat from stock|2019|3.64|1.37|		|Germany|45|
+EUR 3300|Pontoon Boat|Whaly power boats|new boat from stock|2018|4.35|1.73|	|Italy|180|
 
 
 
@@ -56,16 +64,28 @@
 4.	Present the information that the candidate discovered from the dataset
 5.	 If possible, give some follow-up recommendations. 
 
-## A. [Data Exploration and Cleansing](https://github.com/beto1810/Udemy-Course-Analyze/blob/main/A.Data%20Exploration%20%26%20Cleansing.md)
+# :triangular_flag_on_post: Task List - Oral Presentation
+
+Your presentation must be no longer than 8 slides plus a title slide. You should not present for longer than 10 minutes.
+
+Your presentation should be targetted at the non-technical customer who requested the work you have completed.
+
+The presentation should include:
+  - An overview of the project and business goals
+  - Your key findings including visualizations to support those findings
+  - An overview of how your findings answer the customer questions
+  - Your recommendations to the business for future work
+
+## A. [Data Exploration and Cleansing]()
 
 
-## B. [Analysis](https://github.com/beto1810/Udemy-Course-Analyze/blob/main/B.Analysis.md)
+## B. [Analysis]()
 
 
 ***
 #
 ## What can you practice with this case study?
-- SQL
+- Python
   - Filter
   - JOINS
   - CTE's
