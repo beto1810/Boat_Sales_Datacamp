@@ -86,11 +86,9 @@ The presentation should include:
 #
 ## What can you practice with this case study?
 - Python
-  - Filter
-  - JOINS
-  - CTE's
-  - Window Function
-  - Import CSV File
+  - numpy, pandas, currencyconverter, dataprep.clean Library
+  - Cleaning, Transforming, Grouping, Spliting, Converting.
+  - Import and Save CSV File
 - POWER BI
   - Visualize
   - Analyze
