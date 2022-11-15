@@ -76,10 +76,10 @@ The presentation should include:
   - An overview of how your findings answer the customer questions
   - Your recommendations to the business for future work
 
-## A. [Data Exploration and Cleansing]()
+## A. [Data Exploration and Cleansing](https://github.com/beto1810/Boat_Sales_Datacamp/blob/main/A.Data%20Exploration%20%26%20Cleansing.md)
 
 
-## B. [Analysis]()
+## B. [Analysis](https://github.com/beto1810/Boat_Sales_Datacamp/blob/main/B.Analysis.md)
 
 
 ***
