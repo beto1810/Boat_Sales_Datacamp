@@ -1,6 +1,6 @@
 # 📚 Case Study - Boat_Sales_Datacamp: A. Data Exploration and Cleansing
 
-<p align="right"> Using Microsoft Python - Google Colab vs Power BI </p>
+<p align="right"> Using Python - Google Colab vs Power BI </p>
 
 #
 
